@@ -24,6 +24,10 @@ html {
   width: 100%;
 }
 
+body {
+  margin: 0;
+}
+
 .banner {
   position: absolute;
 }
@@ -31,5 +35,5 @@ html {
 .banner-content {
   color: white;
   position: relative;
-  bottom: 13rem;
+  bottom: 11rem;
 }
